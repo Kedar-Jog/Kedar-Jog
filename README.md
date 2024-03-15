@@ -39,6 +39,12 @@ I am a passionate software developer with a strong background in problem-solving
 <div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kedarjog?ext=heatmap&&theme=dark)
+
+
+![HackerRank Profile]
+[HackerRank Profile](https://www.hackerrank.com/profile/kedarjog_vjti)
+
+
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
