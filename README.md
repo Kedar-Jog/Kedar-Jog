@@ -40,10 +40,6 @@ I am a passionate software developer with a strong background in problem-solving
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kedarjog?ext=heatmap&&theme=dark)
 
-  <a href="https://www.hackerrank.com/profile/kedarjog_vjti">
-    <img src="https://github.com/Kedar-Jog/Kedar-Jog/blob/main/Hackerrank.png" alt="Hackerrank Profile"/>
-    Hackerrank
-  </a>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -84,6 +80,18 @@ I am a passionate software developer with a strong background in problem-solving
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-Jog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+
+### Hackerrank Stats
+<div align="center">
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/kedarjog?ext=heatmap&&theme=dark) -->
+
+  <a href="https://www.hackerrank.com/profile/kedarjog_vjti">
+    <img src="https://github.com/Kedar-Jog/Kedar-Jog/blob/main/Hackerrank.png" alt="Hackerrank Profile"/>
+    Hackerrank
+  </a>
 </div>
 
 ## Connect with Me
