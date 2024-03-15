@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-I am a passionate software developer with a strong background in problem-solving and a knack for innovation. Currently focusing on mastering various tech stacks and continuously improving my coding skills.
+I am a passionate software developer with a strong background in problem-solving and a knack for innovation. 
 
 ## Statistics
 
