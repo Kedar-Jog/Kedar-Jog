@@ -35,16 +35,14 @@ I am a passionate software developer with a strong background in problem-solving
 
 ## Statistics
 
-### GitHub Activity
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kedar-Jog/Kedar-Jog?style=flat-square)
-
-
 ### LeetCode Stats
+<div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kedarjog?ext=heatmap&&theme=dark)
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
@@ -62,20 +60,26 @@ I am a passionate software developer with a strong background in problem-solving
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Tech Stacks
+<!-- ### Tech Stacks
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS S3](https://img.shields.io/badge/AWS-S3-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins) -->
+
+### GitHub Activity 
+
+<div align="center">
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kedar-Jog/Kedar-Jog?style=flat-square)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kedar-Jog&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-Jog&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 ## Connect with Me
 Let's connect and collaborate! 
